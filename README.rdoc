@@ -1,0 +1,11 @@
+This for my son
+
+== Installation
+
+ sudo gem sources --add http://gems.github.com
+ sudo gem install ranveer-myproject
+
+== Usage
+ require 'myfirstproject'
+ 
+== Enjoy!!!
