@@ -7,7 +7,7 @@ This for my son, the main class
    include Mommy::Juliany
   
    def hello_world_literally
-     "Hello I'm #{self.class} my is #{self.class.superclass} and my #{self.class.included_modules.first}"
+     "Hello I'm #{self.class} my daddy is #{self.class.superclass} and my #{self.class.included_modules.first}"
    end
   
  end
